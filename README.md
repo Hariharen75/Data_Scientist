@@ -12,6 +12,8 @@ using **Python**, **Scikit-learn**, and **Streamlit**.
 6. Random Forest Regression [Regression](https://github.com/Hariharen75/Random-Forest-Regression)
 7. Random Forest Classification [Classification](https://github.com/Hariharen75/Random_Forest-Classification)
 8. K-Means Clustering [K Means](https://github.com/Hariharen75/K-Means-Clustering)
+9. Hierarchical Clustering [Hierarchical](https://github.com/Hariharen75/Hierarchical-Clustering)
+10. Cross Validation [Cross](https://github.com/Hariharen75/Cross-Validation-Algorithm)
 
 ## Tools & Technologies
 - Python
